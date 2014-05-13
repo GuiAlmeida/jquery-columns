@@ -1,3 +1,4 @@
+// jQuery plugin columns version 1.0.0
 // Released under the MIT license
 // created by: Frank Zondlo
 // Quick and dirty jquery script to split ULs into multiple columns
