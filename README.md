@@ -1,7 +1,7 @@
 jQuery ul (unordered lists) Columns
 =======
 
-jQuery plugin that takes any unordered list and splits it into a specified number of columns. 
+jQuery plugin that takes any unordered list and splits it into a specified number of columns, version 1.0.0 
 
 Really easy to use. First include jquery. Then include jquery.columize-unordered-list.js
 
